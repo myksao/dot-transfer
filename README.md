@@ -29,7 +29,8 @@ For further reference, please consider the following sections:
 * [Spring Reactive Web](https://docs.spring.io/spring-boot/docs/3.3.3/reference/htmlsingle/index.html#web.reactive)
 
 
-Entity Relationship Diagram
+### Entity Relationship Diagram
+
 <img src="entitydiagram.png" alt="ERD" width="400"/>
 
 
